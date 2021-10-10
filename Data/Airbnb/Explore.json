@@ -1,41 +1,41 @@
 [
 	{
-		"img": "./Images/London.webp",
+		"img": "https://stefanlogue.github.io/Data/Airbnb/Images/London.webp",
 		"location": "London",
 		"distance": "45-minute drive"
 	},
 	{
-		"img": "./Images/Manchester.webp",
+		"img": "https://stefanlogue.github.io/Data/Airbnb/Images/Manchester.webp",
 		"location": "Manchester",
 		"distance": "4.5-hour drive"
 	},
 	{
-		"img": "./Images/Liverpool.webp",
+		"img": "https://stefanlogue.github.io/Data/Airbnb/Images/Liverpool.webp",
 		"location": "Liverpool",
 		"distance": "4.5-hour drive"
 	},
 	{
-		"img": "./Images/York.webp",
+		"img": "https://stefanlogue.github.io/Data/Airbnb/Images/York.webp",
 		"location": "York",
 		"distance": "4-hour drive"
 	},
 	{
-		"img": "./Images/Cardiff.webp",
+		"img": "https://stefanlogue.github.io/Data/Airbnb/Images/Cardiff.webp",
 		"location": "Cardiff",
 		"distance": "45-minute drive"
 	},
 	{
-		"img": "./Images/Birkenhead.webp",
+		"img": "https://stefanlogue.github.io/Data/Airbnb/Images/Birkenhead.webp",
 		"location": "Birkenhead",
 		"distance": "4.5-hour drive"
 	},
 	{
-		"img": "./Images/Newquay.webp",
+		"img": "https://stefanlogue.github.io/Data/Airbnb/Images/Newquay.webp",
 		"location": "Newquay",
 		"distance": "6-hour drive"
 	},
 	{
-		"img": "./Images/Hove.webp",
+		"img": "https://stefanlogue.github.io/Data/Airbnb/Images/Hove.webp",
 		"location": "Hove",
 		"distance": "2-hour drive"
 	}
